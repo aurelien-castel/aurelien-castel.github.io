@@ -1,0 +1,44 @@
+
+#contenu
+{
+    margin-top: 100px;
+}
+
+.cadre_photo
+{
+  background-color: white;
+  border: solid 8px white;
+  width : 180px; 
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  
+
+}
+.profil_image {
+    /* height: 180px;
+    width : auto; */
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px; 
+    position: relative;
+    /* border: 1px black solid; */
+}
+
+.icone_blue
+{
+  margin-right: 3px;
+  color:rgb(18,119,209);
+}
+
+:hover.icone_lien 
+{
+  color: rgb(218, 132, 21) !important;
+}
+
+a:hover, a:focus {
+    color: rgb(18,119,209)!important;
+}
+
