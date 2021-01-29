@@ -1,3 +1,3 @@
 # aurelien-castel.github.io
 
-Développement web statique: https://aurelien-castel.github.io
+Développement web statique: [Lien](https://aurelien-castel.github.io){:target="_blank"}
